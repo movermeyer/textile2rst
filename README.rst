@@ -45,11 +45,11 @@ What doesn't it do?
   :target: `Coveralls`_
   :alt: Coveralls results
 
-.. |pip version| image:: https://pypip.in/v/textile2rst/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/textile2rst.svg
     :target: https://pypi.python.org/pypi/textile2rst
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/textile2rst/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/textile2rst.svg
     :target: https://pypi.python.org/pypi/textile2rst
     :alt: Number of PyPI downloads
 
